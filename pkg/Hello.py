@@ -8,4 +8,4 @@ class Hello:
         Returns:
             str: "Hello, World!"
         """
-        return "Hello, World!"
+        return None
